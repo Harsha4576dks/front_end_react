@@ -1,3 +1,4 @@
+import "../css/Favourite.css"
 function Favourites(){
     return <div className="favourite-empty">
         <h2>No Favourite Movies yet</h2>
